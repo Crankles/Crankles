@@ -3,7 +3,7 @@ Crankles/Crankles is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <div id="header" align="center">
- <img alt="A sparkly hello" src="https://media.giphy.com/media/iDbDicWr95THaVsuIF/giphy.gif">
+ <img alt="A sparkly hello" src="https://media.giphy.com/media/iDbDicWr95THaVsuIF/giphy.gif" width="100>
 </div>
 
 ---
